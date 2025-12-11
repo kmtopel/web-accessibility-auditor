@@ -1,0 +1,7 @@
+numpy<2.0
+pandas<2.2
+requests
+playwright
+beautifulsoup4
+lxml
+openpyxl
